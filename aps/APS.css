@@ -1,0 +1,43 @@
+ *{
+    font-family: arial;
+   background-color:#4040ff;
+ }
+.img{width:35% ;
+     height:80% ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	 
+}
+h1{background-color:#4040ff;
+   
+}
+
+
+table{border: 1px solid black; 
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:white;
+}
+.div1{
+    margin: auto;
+    width: 80%;
+} 
+p,h3,ul,li,td,th,tr,a,br,b,h4,div{
+	background-color:white;
+	
+}
+iframe{
+    
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	width:50%;
+	
+	display:block;
+	
+	
+}
